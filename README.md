@@ -22,6 +22,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## App Brainstorming (Step 4)
 
 - Iphone Notes
+
 This is app that I use daily for my to-do lists and other important information.
   - I love the minimalistic design and user expirience. There are no ads, no premium feaures, everything comes down to functionality.
   - Ability to add drawings, tables, photos, checkboxes is really convinient.
