@@ -46,7 +46,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 For the future of the app: Hiking Buddies. You can create a group chat, send the invite for the hike, and send the to-do lists. Basicaly, it will give app an ability to communicate with users. That way people can message other people and ask hem about hikes if they want to learn more. Moreover, there are several local businesses that bring tourists to the mountains, so I can reach out to them in the future and create reservations for the hike. It can be a certain company's private app, but I overall want to make it usable for all tourists. It can expand to tourist spots, museums, and theatres. 
   
 Kyrgyzstan >> 
-![image](https://github.com/bktfuture/CodePath-IOS-Dev/assets/86029622/9dc4d2fe-f672-4fff-b9ec-a54485b03021)
+![image](https://github.com/bktfuture/CodePath-IOS-Dev/assets/86029622/f8806dcc-c518-4cec-ad2c-ae661f402900)
 
 
 ## Notes
