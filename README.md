@@ -37,10 +37,17 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
   - Pleasant design makes it very enjoyable to use.
   - I love voice to text feature, and the ability to see the calendar and repeat the words you had mistakes in. 
 
- **EXPLORE KG** is the app I would like to build. It's going to be a travel guide for tourists who are visiting Kyrgyzstan, my home country. There are not many apps in my country that are helping tourists navigate and find good places to visit. At first, I would like to implement an app with all the hike locations. My country is famous for its nature sceneries and mountains, so there are many trails and hiking locations. Users will be able to view the opening hours, prerequisites for the hike, important notes, photos, reviews, and additional info about the spot. It can also have a page with a checklist, so users can see what important gear they need to take and don't forge it, as well as they can add their bullet points. There will be a feature to upload your photos to locations and leave reviews.
+ **EXPLORE KG** is the app I would like to build. It's going to be a travel guide for tourists who are visiting Kyrgyzstan, my home country. There are not many apps in my country that are helping tourists navigate and find good places to visit. At first, I would like to implement an app with all the hike locations. My country is famous for its nature sceneries and mountains, so there are many trails and hiking locations.
+  - View hike locations on the map
+  - View/leave reviews, view/upload photos, rating
+  - Search bar with filters for the hike level, popularity and cost
+  - Notes page with default prerequisites for the hike according to the level. Users can add and remove bullet points, and check them out if they completetd them.
 
-For the future of the app: There are several local businesses that bring tourists to the mountains, so I can reach out to them in the future and create reservations for the hike. It can be a certain company's private app, but I overall want to make it usable for all tourists. It can expand to tourist spots, museums, and theatres. 
+For the future of the app: Hiking Buddies. You can create a group chat, send the invite for the hike, and send the to-do lists. Basicaly, it will give app an ability to communicate with users. That way people can message other people and ask hem about hikes if they want to learn more. Moreover, there are several local businesses that bring tourists to the mountains, so I can reach out to them in the future and create reservations for the hike. It can be a certain company's private app, but I overall want to make it usable for all tourists. It can expand to tourist spots, museums, and theatres. 
   
+Kyrgyzstan >> 
+![image](https://github.com/bktfuture/CodePath-IOS-Dev/assets/86029622/9dc4d2fe-f672-4fff-b9ec-a54485b03021)
+
 
 ## Notes
 
