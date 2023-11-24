@@ -15,9 +15,11 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
+
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-![ezgif-3-67b9954a24](https://github.com/bktfuture/CodePath-IOS-Dev/assets/86029622/a3d08749-143e-42da-a926-54e4f2331916)
+![ezgif-3-67b9954a24](https://github.com/bktfuture/CodePath-IOS-Dev/assets/86029622/b831208d-0b25-4d4f-9732-1d92c13da7be)
+
 
 
 
